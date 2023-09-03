@@ -1,0 +1,27 @@
+.apple-text {
+    margin-right: 500px;
+    margin-bottom: 40px;
+    font-family: Arial;
+    font-size: 14px;
+    background-color: red;
+    color: white;
+    padding: 12px;
+    text-align: center;
+}
+
+.title {
+    font-family: Arial;
+    /* text-align: center; */
+    width: 300px;
+    line-height: 26px;
+}
+
+.apple-text-shop {
+    cursor: pointer;
+    /* text-decoration: underline; */
+    transition: text-decoration 3s;
+}
+
+.apple-text-shop:hover {
+    text-decoration: underline;
+}
